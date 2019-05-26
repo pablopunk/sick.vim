@@ -32,7 +32,6 @@ hi IncSearch guifg=#FFE66D guibg=NONE
 hi SpecialComment guifg=#FFE66D guibg=NONE
 hi Title guifg=#FFE66D guibg=NONE
 hi PreCondit guifg=#FFE66D guibg=NONE
-hi Include guifg=#FFE66D guibg=NONE
 hi Debug guifg=#FFE66D guibg=NONE
 hi SpecialChar guifg=#FFE66D guibg=NONE
 hi Conditional guifg=#FFE66D guibg=NONE
@@ -42,7 +41,7 @@ hi Label guifg=#FFE66D guibg=NONE
 hi Delimiter guifg=#FFE66D guibg=NONE
 hi Number guifg=#FFE66D guibg=NONE
 hi CursorLineNR guifg=#FFE66D guibg=NONE
-hi  Define guifg=#FFE66D guibg=NONE
+hi Define guifg=#FFE66D guibg=NONE
 hi MoreMsg guifg=#FFE66D guibg=NONE
 hi Tag guifg=#FFE66D guibg=NONE
 hi String guifg=#FFE66D guibg=NONE
@@ -52,10 +51,11 @@ hi DiffChange guifg=#FFE66D guibg=NONE
 hi GitGutterChange guifg=#FFE66D guibg=NONE
 hi cssColor guifg=#FFE66D guibg=NONE
 hi Function guifg=#809BCE guibg=NONE
-hi StorageClass guifg=#809BCE guibg=NONE
 hi Directory guifg=#FF6699 guibg=NONE
 hi markdownLinkText guifg=#FF6699 guibg=NONE
 hi javaScriptBoolean guifg=#FF6699 guibg=NONE
+hi Include guifg=#FF6699 guibg=NONE
+hi Storage guifg=#FF6699 guibg=NONE
 hi cssClassName guifg=#FF6699 guibg=NONE
 hi cssClassNameDot guifg=#FF6699 guibg=NONE
 hi Statement guifg=#4ECDC4 guibg=NONE
