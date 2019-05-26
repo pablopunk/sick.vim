@@ -53,11 +53,11 @@ hi GitGutterChange guifg=#FFE66D guibg=NONE
 hi cssColor guifg=#FFE66D guibg=NONE
 hi Function guifg=#809BCE guibg=NONE
 hi StorageClass guifg=#809BCE guibg=NONE
-hi Directory guifg=#CE92CB guibg=NONE
-hi markdownLinkText guifg=#CE92CB guibg=NONE
-hi javaScriptBoolean guifg=#CE92CB guibg=NONE
-hi cssClassName guifg=#CE92CB guibg=NONE
-hi cssClassNameDot guifg=#CE92CB guibg=NONE
+hi Directory guifg=#FF6699 guibg=NONE
+hi markdownLinkText guifg=#FF6699 guibg=NONE
+hi javaScriptBoolean guifg=#FF6699 guibg=NONE
+hi cssClassName guifg=#FF6699 guibg=NONE
+hi cssClassNameDot guifg=#FF6699 guibg=NONE
 hi Statement guifg=#4ECDC4 guibg=NONE
 hi Operator guifg=#4ECDC4 guibg=NONE
 hi Keyword guifg=#4ECDC4 guibg=NONE
