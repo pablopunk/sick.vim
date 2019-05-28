@@ -7,6 +7,7 @@ set t_Co=256
 hi Normal guifg=#F7FFF7 ctermbg=NONE guibg=NONE
 hi Title guifg=#F7FFF7
 hi LineNr guifg=#444444
+hi NonText guifg=#444444
 hi Comment guifg=#444444 gui=italic
 hi Search guibg=#1ee8c6 guifg=#000000
 hi DiffText guifg=#FF6B6B guibg=NONE
