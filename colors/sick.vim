@@ -15,7 +15,7 @@ hi TabLineFill gui=NONE
 hi TabLine guibg=#454545
 hi StatusLine gui=bold guibg=#454545
 hi StatusLineNC gui=NONE guibg=#454545
-hi Search guibg=#1ee8c6 guifg=#000000
+hi Search guibg=#D36FF6 guifg=#F7FFF7
 hi VertSplit gui=NONE guifg=#454545 guibg=NONE
 hi DiffText guifg=#F66F6F guibg=NONE
 hi ErrorMsg guifg=#F66F6F guibg=NONE
