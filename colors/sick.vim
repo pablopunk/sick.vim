@@ -10,7 +10,10 @@ hi Title guifg=#F7FFF7
 hi LineNr guifg=#454545
 hi NonText guifg=#454545
 hi Comment guifg=#454545 gui=italic
-hi CursorLine guibg=#454545
+hi CursorLine guibg=#001133
+hi TabLineFill gui=NONE
+hi TabLine guibg=#001133
+hi StatusLine gui=NONE guibg=#d3d3d3
 hi Search guibg=#1ee8c6 guifg=#000000
 hi DiffText guifg=#F66F6F guibg=NONE
 hi ErrorMsg guifg=#F66F6F guibg=NONE
