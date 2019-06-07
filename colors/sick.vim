@@ -4,7 +4,7 @@ syntax reset
 let g:colors_name = "sick"
 set background=dark
 set t_Co=256
-hi Normal guifg=#F7FFF7 ctermbg=NONE guibg=NONE
+hi Normal guifg=#F7FFF7 ctermbg=NONE guibg=#1E1F28
 hi Pmenu guifg=#F7FFF7 guibg=#001133
 hi Title guifg=#F7FFF7
 hi LineNr guifg=#454545
@@ -30,6 +30,7 @@ hi Repeat guifg=#6FF6BE guibg=NONE
 hi DiffAdd guifg=#6FF6BE guibg=NONE
 hi GitGutterAdd guifg=#6FF6BE guibg=NONE
 hi cssIncludeKeyword guifg=#6FF6BE guibg=NONE
+hi Keyword guifg=#6FF6BE guibg=NONE
 hi IncSearch guifg=#F6D96F guibg=NONE
 hi SpecialComment guifg=#F6D96F guibg=NONE
 hi Title guifg=#F6D96F guibg=NONE
@@ -62,6 +63,5 @@ hi cssClassName guifg=#D36FF6 guibg=NONE
 hi cssClassNameDot guifg=#D36FF6 guibg=NONE
 hi Statement guifg=#6FEEF6 guibg=NONE
 hi Operator guifg=#6FEEF6 guibg=NONE
-hi Keyword guifg=#6FEEF6 guibg=NONE
 hi cssAttr guifg=#6FEEF6 guibg=NONE
 
