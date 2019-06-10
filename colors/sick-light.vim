@@ -17,6 +17,7 @@ hi StatusLine gui=bold guibg=#F1F1F1 guifg=#1F1F28
 hi StatusLineNC gui=NONE guibg=#F1F1F1 guifg=#1F1F28
 hi Search guibg=#B53FDE guifg=#1F1F28
 hi VertSplit gui=NONE guifg=#F1F1F1 guibg=NONE
+hi Visual gui=NONE guibg=#F1F1F1
 hi DiffText guifg=#DF3232 guibg=NONE
 hi ErrorMsg guifg=#DF3232 guibg=NONE
 hi WarningMsg guifg=#DF3232 guibg=NONE
