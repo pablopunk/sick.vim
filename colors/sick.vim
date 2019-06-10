@@ -4,7 +4,7 @@ syntax reset
 let g:colors_name = "sick"
 set background=dark
 set t_Co=256
-hi Normal guifg=#F7FFF7 ctermbg=NONE guibg=#1E1F28
+hi Normal guifg=#F7FFF7 ctermbg=NONE guibg=#1F1F28
 hi Pmenu guifg=#F7FFF7 guibg=#454545
 hi Title guifg=#F7FFF7
 hi LineNr guifg=#D36FF6
