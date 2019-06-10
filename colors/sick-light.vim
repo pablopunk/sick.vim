@@ -14,7 +14,7 @@ hi CursorLine guibg=#F1F1F1
 hi TabLineFill gui=NONE
 hi TabLine guibg=#F1F1F1
 hi StatusLine gui=bold guibg=#F1F1F1 guifg=#1F1F28
-hi StatusLineNC gui=NONE guibg=#F1F1F1 guifg=#1F1F28
+hi StatusLineNC gui=NONE guibg=#F7FFF7 guifg=#1F1F28
 hi Search guibg=#B53FDE guifg=#1F1F28
 hi VertSplit gui=NONE guifg=#F1F1F1 guibg=NONE
 hi Visual gui=NONE guibg=#F1F1F1
