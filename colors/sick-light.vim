@@ -1,23 +1,10 @@
-
 hi clear
 syntax reset
 let g:colors_name = "sick-light"
 set background=light
 set t_Co=256
 hi Normal guifg=#1f1f28 ctermbg=NONE guibg=#f7fff7
-hi Pmenu guifg=#1f1f28 guibg=#f1f1f1
-hi Title guifg=#1f1f28
-hi LineNr guifg=#b53fde
-hi NonText guifg=#b53fde
-hi Comment guifg=#b53fde gui=italic
-hi CursorLine guibg=#f1f1f1
-hi TabLineFill gui=NONE
-hi TabLine guibg=#f1f1f1
-hi StatusLine gui=bold guibg=#f1f1f1 guifg=#1f1f28
-hi StatusLineNC gui=NONE guibg=#f7fff7 guifg=#1f1f28
-hi Search guibg=#b53fde guifg=#1f1f28
-hi VertSplit gui=NONE guifg=#f1f1f1 guibg=NONE
-hi Visual gui=NONE guibg=#f1f1f1
+
 hi DiffText guifg=#df3232 guibg=NONE
 hi ErrorMsg guifg=#df3232 guibg=NONE
 hi WarningMsg guifg=#df3232 guibg=NONE
@@ -72,3 +59,17 @@ hi Statement guifg=#18bbc6 guibg=NONE
 hi Operator guifg=#18bbc6 guibg=NONE
 hi cssAttr guifg=#18bbc6 guibg=NONE
 
+
+hi Pmenu guifg=#1f1f28 guibg=#f1f1f1
+hi Title guifg=#1f1f28
+hi LineNr guifg=#b53fde
+hi NonText guifg=#b53fde
+hi Comment guifg=#b53fde gui=italic
+hi CursorLine guibg=#f1f1f1
+hi TabLineFill gui=NONE
+hi TabLine guibg=#f1f1f1
+hi StatusLine gui=bold guibg=#f1f1f1 guifg=#1f1f28
+hi StatusLineNC gui=NONE guibg=#f7fff7 guifg=#1f1f28
+hi Search guibg=#b53fde guifg=#f7fff7
+hi VertSplit gui=NONE guifg=#f1f1f1 guibg=NONE
+hi Visual gui=NONE guibg=#f1f1f1
