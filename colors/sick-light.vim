@@ -13,8 +13,8 @@ hi Comment guifg=#D36FF6 gui=italic
 hi CursorLine guibg=#e3e3e3
 hi TabLineFill gui=NONE
 hi TabLine guibg=#e3e3e3
-hi StatusLine gui=bold guibg=#e3e3e3
-hi StatusLineNC gui=NONE guibg=#e3e3e3
+hi StatusLine gui=bold guibg=#e3e3e3 guifg=#1f1f28
+hi StatusLineNC gui=NONE guibg=#e3e3e3 guifg=#1f1f28
 hi Search guibg=#D36FF6 guifg=#1f1f28
 hi VertSplit gui=NONE guifg=#e3e3e3 guibg=NONE
 hi DiffText guifg=#d04242 guibg=NONE
