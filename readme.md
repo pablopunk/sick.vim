@@ -1,5 +1,7 @@
 # sick.vim
 
+[Sick colors](https://pablopunk.com/sick-colors) for vim. Generated with [vimcolors.org](https://vimcolors.org) and screenshots with [hyper-sick](https://pablopunk.com/hyper-sick).
+
 ![screenshot](https://github.com/pablopunk/art/raw/master/sick-colors/vim.png)
 
 ![screenshot](https://github.com/pablopunk/art/raw/master/sick-colors/vim-light.png)
