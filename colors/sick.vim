@@ -60,16 +60,16 @@ hi Operator guifg=#6de5ff guibg=NONE
 hi cssAttr guifg=#6de5ff guibg=NONE
 
 
-hi Pmenu guifg=#dadada guibg=#212121
+hi Pmenu guifg=#dadada guibg=#454545
 hi Title guifg=#dadada
 hi LineNr guifg=#c481ff
 hi NonText guifg=#c481ff
 hi Comment guifg=#c481ff gui=italic
-hi CursorLine guibg=#212121
+hi CursorLine guibg=#454545
 hi TabLineFill gui=NONE
-hi TabLine guibg=#212121
-hi StatusLine gui=bold guibg=#212121 guifg=#dadada
+hi TabLine guibg=#454545
+hi StatusLine gui=bold guibg=#454545 guifg=#dadada
 hi StatusLineNC gui=NONE guibg=#272935 guifg=#dadada
 hi Search guibg=#c481ff guifg=#dadada
-hi VertSplit gui=NONE guifg=#212121 guibg=NONE
-hi Visual gui=NONE guibg=#212121
+hi VertSplit gui=NONE guifg=#454545 guibg=NONE
+hi Visual gui=NONE guibg=#454545
