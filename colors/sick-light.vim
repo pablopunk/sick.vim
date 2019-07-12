@@ -3,7 +3,7 @@ syntax reset
 let g:colors_name = "sick-light"
 set background=light
 set t_Co=256
-hi Normal guifg=#1f1f28 ctermbg=NONE guibg=#ffffff
+hi Normal guifg=#1f1f28 ctermbg=NONE guibg=NONE
 
 hi DiffText guifg=#df3232 guibg=NONE
 hi ErrorMsg guifg=#df3232 guibg=NONE
