@@ -61,6 +61,7 @@ hi cssAttr guifg=#18bbc6 guibg=NONE
 
 
 hi Pmenu guifg=#1f1f28 guibg=#f1f1f1
+hi SignColumn guibg=NONE
 hi Title guifg=#1f1f28
 hi LineNr guifg=#b53fde
 hi NonText guifg=#b53fde
