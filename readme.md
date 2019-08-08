@@ -20,6 +20,8 @@ And then set the colorscheme. The default is dark but you can also use the light
 colorscheme sick
 ```
 
+or
+
 ```viml
 colorscheme sick-light
 ```
