@@ -64,7 +64,7 @@ hi SignColumn guibg=#ffffff
 hi Title guifg=#1f1f28
 hi LineNr guifg=#b53fde guibg=#ffffff
 hi NonText guifg=#b53fde guibg=#ffffff
-hi Comment guifg=#b53fde gui=italic guibg=#ffffff
+hi Comment guifg=#b53fde gui=italic
 hi SpecialComment guifg=#b53fde gui=italic guibg=#ffffff
 hi CursorLine guibg=#f1f1f1
 hi TabLineFill gui=NONE guibg=#ffffff
