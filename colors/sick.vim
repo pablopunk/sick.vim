@@ -59,18 +59,18 @@ hi Operator guifg=#6de5ff guibg=NONE
 hi cssAttr guifg=#6de5ff guibg=NONE
 
 
-hi Pmenu guifg=#dadada guibg=#454545
+hi Pmenu guifg=#dadada guibg=#273c75
 hi SignColumn guibg=#272935
 hi Title guifg=#dadada
 hi LineNr guifg=#747474 guibg=#272935
 hi NonText guifg=#c481ff guibg=#272935
 hi Comment guifg=#c481ff gui=italic
 hi SpecialComment guifg=#c481ff gui=italic guibg=#272935
-hi CursorLine guibg=#454545
-hi TabLineFill gui=NONE guibg=#454545
-hi TabLine guifg=#747474 guibg=#454545
-hi StatusLine gui=bold guibg=#454545 guifg=#dadada
+hi CursorLine guibg=#273c75
+hi TabLineFill gui=NONE guibg=#273c75
+hi TabLine guifg=#747474 guibg=#273c75 gui=NONE
+hi StatusLine gui=bold guibg=#273c75 guifg=#dadada
 hi StatusLineNC gui=NONE guibg=#272935 guifg=#dadada
 hi Search guibg=#c481ff guifg=#dadada
-hi VertSplit gui=NONE guifg=#454545 guibg=NONE
-hi Visual gui=NONE guibg=#454545
+hi VertSplit gui=NONE guifg=#273c75 guibg=NONE
+hi Visual gui=NONE guibg=#273c75

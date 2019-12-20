@@ -59,18 +59,18 @@ hi Operator guifg=#18bbc6 guibg=NONE
 hi cssAttr guifg=#18bbc6 guibg=NONE
 
 
-hi Pmenu guifg=#1f1f28 guibg=#f1f1f1
+hi Pmenu guifg=#1f1f28 guibg=#f3e5ff
 hi SignColumn guibg=#ffffff
 hi Title guifg=#1f1f28
 hi LineNr guifg=#7b7b98 guibg=#ffffff
 hi NonText guifg=#b53fde guibg=#ffffff
 hi Comment guifg=#b53fde gui=italic
 hi SpecialComment guifg=#b53fde gui=italic guibg=#ffffff
-hi CursorLine guibg=#f1f1f1
-hi TabLineFill gui=NONE guibg=#f1f1f1
-hi TabLine guifg=#7b7b98 guibg=#f1f1f1
-hi StatusLine gui=bold guibg=#f1f1f1 guifg=#1f1f28
+hi CursorLine guibg=#f3e5ff
+hi TabLineFill gui=NONE guibg=#f3e5ff
+hi TabLine guifg=#7b7b98 guibg=#f3e5ff gui=NONE
+hi StatusLine gui=bold guibg=#f3e5ff guifg=#1f1f28
 hi StatusLineNC gui=NONE guibg=#ffffff guifg=#1f1f28
 hi Search guibg=#b53fde guifg=#ffffff
-hi VertSplit gui=NONE guifg=#f1f1f1 guibg=NONE
-hi Visual gui=NONE guibg=#f1f1f1
+hi VertSplit gui=NONE guifg=#f3e5ff guibg=NONE
+hi Visual gui=NONE guibg=#f3e5ff
