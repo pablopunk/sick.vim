@@ -28,8 +28,8 @@ colorscheme sick-light
 
 ## Related
 
-[hyper-sick](https://github.com/pablopunk/hyper-sick): A hyper theme
-[sick-code](https://github.com/pablopunk/sick-code): Visual Studio Code theme
-[sick-iterm2](https://github.com/pablopunk/sick-iterm2): iterm2 theme
-[vimcolors.org](https://vimcolors.org): The tool I used to generate this theme
-[sunset.vim](https://github.com/pablopunk/sunset.vim): Another scheme for vim
+- [hyper-sick](https://github.com/pablopunk/hyper-sick): A hyper theme
+- [sick-code](https://github.com/pablopunk/sick-code): Visual Studio Code theme
+- [sick-iterm2](https://github.com/pablopunk/sick-iterm2): iterm2 theme
+- [vimcolors.org](https://vimcolors.org): The tool I used to generate this theme
+- [sunset.vim](https://github.com/pablopunk/sunset.vim): Another scheme for vim
